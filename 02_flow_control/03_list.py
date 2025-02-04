@@ -23,7 +23,7 @@ print(lista3)
 print(lista_vacia)
 print(lista_de_listas)
 print(matrix)
-x
+
 # Acceso a elementos por índice
 print("\nAcceso a elementos por índice")
 print(lista2[0])  # manzanas
@@ -71,6 +71,12 @@ print("Longitud de la lista", len(lista1))
 # Dada la siguiente lista:
 # mensaje = ["C", "o", "d", "i", "g", "o", " ", "s", "e", "c", "r", "e", "t", "o"]
 # Utilizando slicing y concatenación, crea una nueva lista que contenga solo el mensaje "secreto".
+
+print("\nEjercicio 1: El mensaje secreto!")
+
+mensaje = ["C", "o", "d", "i", "g", "o", " ", "s", "e", "c", "r", "e", "t", "o"]
+
+print(mensaje[7:])
 
 # Ejercicio 2: Intercambio de posiciones
 # Dada la siguiente lista:
