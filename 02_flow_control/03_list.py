@@ -23,7 +23,7 @@ print(lista3)
 print(lista_vacia)
 print(lista_de_listas)
 print(matrix)
-
+x
 # Acceso a elementos por índice
 print("\nAcceso a elementos por índice")
 print(lista2[0])  # manzanas
